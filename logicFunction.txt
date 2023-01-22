@@ -1,0 +1,5 @@
+a := input a number
+b := input a number
+
+if(a>b) output a
+else output b
